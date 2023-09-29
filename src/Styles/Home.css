@@ -1,0 +1,17 @@
+html{
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+}
+
+.cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+  }
+
+  .titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+  }
